@@ -206,7 +206,7 @@ footer {
 
     .rectangle {
         flex-direction: column;
-        height: 400px;
+        height: 350px;
         margin-right: -200px;
         width: 80%;
     }
